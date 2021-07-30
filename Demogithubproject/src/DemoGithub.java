@@ -9,6 +9,7 @@ public class DemoGithub {
 	public void m1()
 	{
 		System.out.println("ohk i ll check");
+		System.out.println("yes please do check fast");
 	}
 
 }
