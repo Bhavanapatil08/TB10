@@ -10,6 +10,11 @@ public class DemoGithub {
 	{
 		System.out.println("ohk i ll check");
 		System.out.println("yes please do check fast");
+		
+	}
+	public void m2()
+	{
+		System.out.println("Hello have you checked my task yet");
 	}
 
 }
